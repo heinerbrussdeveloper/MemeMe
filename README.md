@@ -1,6 +1,6 @@
-# Sunny Day
+# MemeMe
 
-A weather App that let's you find the weather for every location around the world
+is a Meme-App that lets you create funny Memes directly on your iPhone.
 
 ## Getting Started
 
@@ -12,19 +12,12 @@ You need an iphone running ios 13 or later
 
 ### Installing
 
-Open the Folder with the app and insert your API key. You can get the key from openweahtermap.com
-Run the app in the simulator
+Open the Folder with the app and Run it in the Simulator or on your Phone
 
 
 ## How it works
 
-When you insert a city in the textfield and press the enter button or the search button the app searches for the weather at this particular location
-It shows the Weather in an Image, the current weather temperature, the min and max temperature as well as the city name you searched for.
-When you press the location button the Iphone will find your current location automaticly and shows the weahter at your location
-The info button in the upper left shows you how the app works
-the favorites button gets you to your favorites-list
-Here you can add and delete your favorite cities you want to look up the weather for
-Thats it-have fun using the app
+Initially at first, you can take a Picture using your iPhone camera and then you can use that picture and give it a top and bottom line text. After that you can save that new Meme or send it to a Friend you like to share it with. Alternatively you can also use a picture from your foto library on your phone and edit it.
 
 ![](MemeMe.gif)
 
